@@ -1,3 +1,6 @@
+# Atividade-avaliativa---ADS-2-SEMESTRE
+Baseado no livro “Entendendo Algoritmos” de Aditya Bhargava
+
 # Exemplos em Python do livro "Entendendo Algoritmos"
 
 Este repositório contém implementações simples em Python baseadas no livro Entendendo Algoritmos de Aditya Bhargava.
